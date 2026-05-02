@@ -1,4 +1,10 @@
 .button {
     background-color: rgb(121, 201, 201);
-    button-size: 50px;
+    button-size: 150px;
+    button-width: 200px;
+    button-height; 150px;
+    button-place: center;
+
+
+
 }
